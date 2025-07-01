@@ -10,4 +10,4 @@ This project does automatic backups and sends email notifications.
 - .msmtprc — sample Gmail SMTP config
 - crontab.txt — example cron job to run daily at 2 AM
 
-✅ Tested on WSL Ubuntu(for WINDOWS)
+ Tested on WSL Ubuntu(for WINDOWS)
