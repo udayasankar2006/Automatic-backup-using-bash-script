@@ -4,7 +4,7 @@ Subject: Backup Script Failure
 
 Hello Mr. Udaya,
 
-⚠️ Your backup has **FAILED**.
+Your backup has !!FAILED!!.
 Please check your logs immediately.
 
 Regards,
