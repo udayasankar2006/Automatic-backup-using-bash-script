@@ -1,0 +1,2 @@
+# Runs every day at 2 AM
+0 2 * * * /home/mrrobot/bash-backup-script/backup.sh

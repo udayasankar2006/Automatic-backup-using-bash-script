@@ -1,0 +1,11 @@
+To: 231901058@rajalakshmi.edu.in
+From: udaya13092006@gmail.com
+Subject: Backup Script Failure
+
+Hello Mr. Udaya,
+
+⚠️ Your backup has **FAILED**.
+Please check your logs immediately.
+
+Regards,
+Your Backup Script
